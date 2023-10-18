@@ -1,5 +1,5 @@
 # YouTube AdBlock Warning and Ad Removal Tool
-
+![banner](https://github.com/ArifKobel/youtube-adwarning-remove/blob/main/images/banner.jpg?raw=true)
 ## Overview
 This project is a simple browser extension designed to automatically close YouTube's AdBlock warnings and remove video ads, providing a seamless ad-free viewing experience on the platform. By using this extension, you can enjoy YouTube content without interruptions from advertisements or pop-up warnings.
 
