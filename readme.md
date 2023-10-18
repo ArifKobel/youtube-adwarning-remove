@@ -39,3 +39,7 @@ To install this browser extension, follow these steps:
    - The extension should now be active in your browser, automatically closing AdBlock warnings and removing YouTube video ads.
 
 That's it! You've successfully installed the YouTube AdBlock Warning and Ad Removal Tool as a local Chrome extension.
+
+
+# Credits
+I found inspiration in the code shared by TheRealJoelmatic on their repository: https://github.com/TheRealJoelmatic/RemoveAdblockThing
